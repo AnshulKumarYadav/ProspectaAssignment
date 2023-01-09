@@ -1,0 +1,20 @@
+Question: What are the key things you would consider when creating/consuming an API to ensure that it is secure and reliable?
+Answer: To consuming and creating api we have to apply exception handling to secure reliale state. We can use more abstraction to hide
+the implementation that will allow more secure and reliable state . 
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Theoritical Questions
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Question 1. How will you tackle the challenge above?
+Answer.  To tackle the above challenge I will make java program in there first I will read the file using scanner class and file class 
+          (Scanner sc = new Scanner(new File("location of file")) then i will check  and store in variables and then i will print the values of class
+         if variable store a numeric value then it will show numeric if variable stores formula then java.lang.Math class will configure this print 
+          the actual value.
+
+Question 2. What type of errors you would you check for?
+Answer.     I will check some exception by try catck and will check variable storing values.
+
+Question 3. How might a user break your code?
+Answer.     User can break my code if he give a differnt value that i have not checking like booleans. 
